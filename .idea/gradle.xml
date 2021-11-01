@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Contacts/task" />
+            <option value="$PROJECT_DIR$/Problems/10 days before" />
+            <option value="$PROJECT_DIR$/Problems/2 weeks after" />
+            <option value="$PROJECT_DIR$/Problems/30 years before and after" />
+            <option value="$PROJECT_DIR$/Problems/Balance management" />
+            <option value="$PROJECT_DIR$/Problems/Basic calculator" />
+            <option value="$PROJECT_DIR$/Problems/Builder" />
+            <option value="$PROJECT_DIR$/Problems/Builder (1)" />
+            <option value="$PROJECT_DIR$/Problems/Burger store" />
+            <option value="$PROJECT_DIR$/Problems/Burgers" />
+            <option value="$PROJECT_DIR$/Problems/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Problems/Change identities" />
+            <option value="$PROJECT_DIR$/Problems/Clock factory" />
+            <option value="$PROJECT_DIR$/Problems/Clocks" />
+            <option value="$PROJECT_DIR$/Problems/Complex" />
+            <option value="$PROJECT_DIR$/Problems/Convert numbers to days" />
+            <option value="$PROJECT_DIR$/Problems/Convert to bytes" />
+            <option value="$PROJECT_DIR$/Problems/Convert to char array" />
+            <option value="$PROJECT_DIR$/Problems/Count words" />
+            <option value="$PROJECT_DIR$/Problems/Danger levels" />
+            <option value="$PROJECT_DIR$/Problems/Declared fields" />
+            <option value="$PROJECT_DIR$/Problems/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Problems/Forex Broker" />
+            <option value="$PROJECT_DIR$/Problems/Get the game mode" />
+            <option value="$PROJECT_DIR$/Problems/Kidnapper of Ice cream" />
+            <option value="$PROJECT_DIR$/Problems/Laptop factory" />
+            <option value="$PROJECT_DIR$/Problems/Merging date-time instances" />
+            <option value="$PROJECT_DIR$/Problems/Motor static factory" />
+            <option value="$PROJECT_DIR$/Problems/Movie" />
+            <option value="$PROJECT_DIR$/Problems/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Problems/Password processing" />
+            <option value="$PROJECT_DIR$/Problems/Phone factory" />
+            <option value="$PROJECT_DIR$/Problems/Remote Controller" />
+            <option value="$PROJECT_DIR$/Problems/Return time without seconds" />
+            <option value="$PROJECT_DIR$/Problems/Robot" />
+            <option value="$PROJECT_DIR$/Problems/Robot Builder" />
+            <option value="$PROJECT_DIR$/Problems/Robot factory" />
+            <option value="$PROJECT_DIR$/Problems/Seconds since start of a day" />
+            <option value="$PROJECT_DIR$/Problems/Serializable user" />
+            <option value="$PROJECT_DIR$/Problems/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Problems/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/Problems/Stock Broker" />
+            <option value="$PROJECT_DIR$/Problems/Subway Sandwich" />
+            <option value="$PROJECT_DIR$/Problems/System of units" />
+            <option value="$PROJECT_DIR$/Problems/Template Method" />
+            <option value="$PROJECT_DIR$/Problems/Template Method (1)" />
+            <option value="$PROJECT_DIR$/Problems/The Range class" />
+            <option value="$PROJECT_DIR$/Problems/The first and the last day of a month" />
+            <option value="$PROJECT_DIR$/Problems/The longest word" />
+            <option value="$PROJECT_DIR$/Problems/The n-th day from the end of a month" />
+            <option value="$PROJECT_DIR$/Problems/The passed hours since the beginning of year" />
+            <option value="$PROJECT_DIR$/Problems/Whole hours between two date-time pairs" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

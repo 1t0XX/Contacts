@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Contacts/task/build/
+/Contacts/task/out/
+/Contacts/task/out/production/classes/
+/Problems/10 days before/out/
+/Problems/10 days before/out/production/classes/
+/Problems/Builder/out/
+/Problems/Builder/out/production/classes/
+/Problems/Calculating factorials/out/
+/Problems/Calculating factorials/out/production/classes/
+/Problems/Robot Builder/out/
+/Problems/Robot Builder/out/production/classes/
+/Problems/Subway Sandwich/out/
+/Problems/Subway Sandwich/out/production/classes/
+/Problems/The longest word/out/
+/Problems/The longest word/out/production/classes/
